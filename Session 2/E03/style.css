@@ -1,0 +1,43 @@
+/* 
+  This CSS file is used to create styling rules that are then imported into the HTML file
+  
+  These rules can go from general to specific;
+  
+  General rules:
+  Using the tag names, e.g. h1, h2, p, div, ol, li, we can tell the browser to apply specific style rules to the corresponding elements
+
+  Class:
+  Classes can be used to give multiple elements of different types the same styles
+
+  ID:
+  Id's are used identify one specific element
+
+  Check out this link for more information
+  https://www.w3schools.com/Css/css_syntax.asp
+*/
+
+
+/* General rule for all h1 tags in HTML file*/
+h1 {
+  background-color: green;
+}
+
+/* 
+  Class rule, this can be applied to as many tags as you want (which can all be of a different type) 
+  e.g
+  <p class="my-class"></p>
+  <div class="my-class"></div>
+  <a class="my-class"></a>
+*/
+.my-class {
+  background-color: yellow;
+}
+
+/* 
+  Id rule, this should only be applied to one specific element. 
+  e.g
+  <p id="my-id"></p> 
+*/
+#my-id {
+  background-color: grey;
+}
