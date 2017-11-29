@@ -1,0 +1,14 @@
+Main Exercise
+
+Sams sardines webpage
+    - Download here
+        - https://github.com/code61/bootstrap_exercise
+    - Make it look like this
+        - http://code61.github.io/bootstrap_exercise/
+
+Tips
+  - CF:G Session 5 PDF (step by step guide)
+      - Chapter 2 - Tasks
+      - Chapter 3 - Tasks
+      - Chapter 4 - Tasks
+      - Chapter 5 - Tasks
